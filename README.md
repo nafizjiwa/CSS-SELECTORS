@@ -6,6 +6,7 @@ What are css selectors?
 CSS Attribute Selectors<br>
 		
 | Selector | Example | Example description |
+
 | — — — | — — — — — -| — — — — — |
 | [attribute]         | [target] | Selects all elements with a target attribute |
 | [attribute=value]   | [target="_blank"] | Selects all elements with target="_blank" |	
