@@ -9,7 +9,7 @@ CSS Attribute Selectors<br>
 | Type Selector | Targets an html element   | h1 | 
 
 | Selector | Example | Example description |
-| — — — | — — — — — -| — — — — — |
+| --- | --------- | ---------- |
 | [attribute] | [target] | Selects all elements with a target attribute |
 | [attribute=value] | [target="_blank"] | Selects all elements with target="_blank" |	
 | [attribute~=value] | [title~="flower"] | Selects all elements with a title attribute that contains a space-separated list of words, one of which is "flower" |
