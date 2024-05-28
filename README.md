@@ -5,7 +5,7 @@ What are css selectors?
 
 CSS Attribute Selectors<br>
 		
-| Selector | Example | Example description |
+	| Selector | Example | Example description |
 
 | — — — | — — — — — -| — — — — — |
 | [attribute]         | [target] | Selects all elements with a target attribute |
