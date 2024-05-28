@@ -4,9 +4,7 @@ What are css selectors?
 
 
 CSS Attribute Selectors<br>
-| The group of Selectors | What the selector styles | Example | 
-| :--------------- | :---------------------------------------|:-----:| 
-| Type Selector | Targets an html element   | h1 | 
+
 
 | Selector | Example | Example description |
 | --- | --------- | ---------- |
