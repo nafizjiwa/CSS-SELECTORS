@@ -1,7 +1,4 @@
-# CSS-SELECTORS
-What are css selectors?
-
-
+# CSS-ATTRIBUTE - SELECTORS
 
 CSS Attribute Selectors<br>
 
